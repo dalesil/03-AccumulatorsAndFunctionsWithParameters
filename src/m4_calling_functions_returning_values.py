@@ -292,7 +292,7 @@ def run_test_fancy_sums_of_digits():
 
 def fancy_sums_of_digits(n):
     X = sum_of_digits(n ** 1000)
-    Y = sum_of_digits(n*999)
+    Y = sum_of_digits(n**999)
     return sum_of_digits(X ** Y)
     """
     What comes in:  A positive integer n.
