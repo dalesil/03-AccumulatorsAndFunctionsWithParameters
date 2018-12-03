@@ -28,7 +28,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #              Downward
 #
 #     b. Write a line of code that constructs a RoseWindow object:
-#            window = rg.RoswWindow(500, 300)
+#            window = rg.RoseWindow(500, 300)
 #
 #     c. What is the default height of a RoseWindow?
 #        (Use the HOVER trick to determine the answer to this question.)
